@@ -1,0 +1,1827 @@
+# Copyright (C) 2020
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-11 06:20:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Varun Dubey\n"
+"Language-Team: Wbcom Designs\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/class-ld-dashboard-admin.php:205
+msgid "LD Dashboard Profile Menu"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:215
+msgid "WB Plugins"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:216
+#: admin/class-ld-dashboard-admin.php:286
+msgid "General"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:218
+msgid "LD Dashboard"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:287
+msgid "Integration"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:288
+msgid "Page Mapping"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:289
+msgid "Instructors"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:290
+msgid "Commission Report"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:305
+msgid "Sync Course-Group"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:327
+msgid "LD Dashboard Settings"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:352
+#: admin/class-ld-dashboard-admin.php:362
+msgid "Admin Commission"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:369
+msgid "LD Instructors"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:500
+#: public/class-ld-dashboard-public.php:1588
+#: public/class-ld-dashboard-public.php:1808
+msgid "Export CSV"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:510
+msgid "No courses has been purchased yet"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:832
+msgid "Add More Instructors"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:839
+msgid "Add instructors"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:848
+msgid "Search instructors..."
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:853
+msgid "Add Instructors"
+msgstr ""
+
+#: admin/class-ld-dashboard-admin.php:895
+msgid "<p>No instructor available or you have already added maximum instructors</p>"
+msgstr ""
+
+#: admin/partials/ld-dashboard-bp-groups-sync.php:35
+msgid ""
+"Synchronize LearnDash Course students with the associated BuddyPress Groups "
+"to become group member."
+msgstr ""
+
+#: admin/partials/ld-dashboard-bp-groups-sync.php:48
+#: buddypress/class-reign-learndash-buddypress-addon.php:311
+msgid "Sync"
+msgstr ""
+
+#: admin/partials/ld-dashboard-bp-groups-sync.php:52
+#: buddypress/class-reign-learndash-buddypress-addon.php:312
+#: buddypress/ld-dashboard-todo-list.php:146
+#: buddypress/ld-dashboard-todo-list.php:211
+msgid "Completed"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:33
+msgid "Select Instructor"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:40
+msgid "Select instructor to display commission report."
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:44
+msgid "Order ID"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:45
+msgid "Course Name"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:46
+msgid "Actual Price"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:47
+msgid "Admin Commission %"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:48
+msgid "Payment Type"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:55
+msgid "No instructors registered in the site"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:61
+msgid "Instructor Data"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:67
+msgid "Paid Earning"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:71
+msgid "Unpaid Earning"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:75
+msgid "Enter amount"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:85
+msgid "Please enter an amount less than unpaid amount."
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:91
+msgid "Pay"
+msgstr ""
+
+#: admin/partials/ld-dashboard-commission-report.php:96
+#: buddypress/class-reign-learndash-buddypress-addon.php:310
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:32
+msgid "Enable Instructor Total Sales"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:48
+msgid "Enable Course Count"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:51
+msgid "Enable this option if you want to show total course count."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:64
+msgid "Enable Quizzes Count"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:67
+msgid "Enable this option if you want to show total Quizzes count."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:80
+msgid "Enable Assignments Count"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:83
+msgid "Enable this option if you want to show Assignments statistics."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:90
+msgid ""
+"Enable this option if you want to show total Completed Assignments count. "
+"Otherwise display total pending Assignments count."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:104
+msgid "Enable Essays Count"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:107
+msgid "Enable this option if you want to show total pending Essays count."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:120
+msgid "Enable Lessons Count"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:123
+msgid "Enable this option if you want to show total count."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:136
+msgid "Enable Topics Count"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:139
+msgid "Enable this option if you want to show total Topics count."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:152
+msgid "Enable Student Count"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:155
+msgid "Enable this option if you want to show total Student count."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:169
+msgid "Enable Instructor Earning"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:172
+msgid "Enable this option if you want to show instructor earning."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:185
+msgid "Enable instructor statistics"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:188
+msgid "Enable this option if you want to show instructor statistics."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:197
+msgid "Enable course progress"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:200
+msgid "Enable this option if you want to show course progress."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:209
+msgid "Global commission"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:212
+msgid "Enable this option if you want to enable commission on courses."
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:218
+msgid "Rate %"
+msgstr ""
+
+#: admin/partials/ld-dashboard-general-settings.php:219
+msgid "Enter global commission rate for all course author."
+msgstr ""
+
+#: admin/partials/ld-dashboard-instructor-settings.php:33
+#: public/class-ld-dashboard-public.php:1578
+#: templates/ld-dashboard-instructor-stats.php:14
+msgid "Name"
+msgstr ""
+
+#: admin/partials/ld-dashboard-instructor-settings.php:34
+msgid "User email"
+msgstr ""
+
+#: admin/partials/ld-dashboard-instructor-settings.php:35
+msgid "Commission %"
+msgstr ""
+
+#: admin/partials/ld-dashboard-instructor-settings.php:36
+#: admin/partials/ld-dashboard-instructor-settings.php:54
+msgid "Update"
+msgstr ""
+
+#: admin/partials/ld-dashboard-instructor-settings.php:62
+msgid "No instructors are registered on the site."
+msgstr ""
+
+#: admin/partials/ld-dashboard-integration.php:32
+msgid "LearnDash Email integration"
+msgstr ""
+
+#: admin/partials/ld-dashboard-integration.php:35
+msgid "Enable this option if you want to enable email integration."
+msgstr ""
+
+#: admin/partials/ld-dashboard-integration.php:45
+msgid "LearnDash BuddyPress group integration"
+msgstr ""
+
+#: admin/partials/ld-dashboard-integration.php:48
+msgid "Enable this option if you want to enable buddypress group integration."
+msgstr ""
+
+#: admin/partials/ld-dashboard-integration.php:57
+msgid "LearnDash BuddyPress Messaging integration"
+msgstr ""
+
+#: admin/partials/ld-dashboard-integration.php:60
+msgid "Enable this option if you want to enable buddypress messaging integration."
+msgstr ""
+
+#: admin/partials/ld-dashboard-integration.php:72
+msgid "Display course To Do"
+msgstr ""
+
+#: admin/partials/ld-dashboard-integration.php:75
+msgid "Enable this option if you want to display To Do widget at dashboard page."
+msgstr ""
+
+#: admin/partials/ld-dashboard-page-mapping.php:32
+msgid "My Dashboard Page"
+msgstr ""
+
+#: admin/partials/ld-dashboard-page-mapping.php:57
+#: admin/partials/ld-dashboard-page-mapping.php:91
+#: admin/wbcom/templates/wbcom-plugins-page.php:67
+msgid "View"
+msgstr ""
+
+#: admin/partials/ld-dashboard-page-mapping.php:59
+#: admin/partials/ld-dashboard-page-mapping.php:93
+msgid "(opens in a new tab)"
+msgstr ""
+
+#: admin/partials/ld-dashboard-page-mapping.php:62
+msgid ""
+"This sets the page used to LearnDash user dashboard. This page should "
+"contain the following shortcode. [ld_dashboard]"
+msgstr ""
+
+#: admin/partials/ld-dashboard-page-mapping.php:67
+msgid "Instructor Registration Page"
+msgstr ""
+
+#: admin/partials/ld-dashboard-page-mapping.php:97
+msgid ""
+"This sets the page used to register Instructor user. This page should "
+"contain the following shortcode. [ld_instructor_registration]"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:3
+msgid "Plugin License Settings"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:8
+#: admin/wbcom/templates/wbcom-license-page.php:21
+#: edd-license/edd-plugin-license.php:400
+msgid "Product"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:9
+#: admin/wbcom/templates/wbcom-license-page.php:22
+#: edd-license/edd-plugin-license.php:401
+msgid "Version"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:10
+#: admin/wbcom/templates/wbcom-license-page.php:23
+#: edd-license/edd-plugin-license.php:402
+msgid "Key"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:11
+#: admin/wbcom/templates/wbcom-license-page.php:24
+#: edd-license/edd-plugin-license.php:403
+msgid "Status"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:12
+#: admin/wbcom/templates/wbcom-license-page.php:25
+#: edd-license/edd-plugin-license.php:404
+msgid "Action"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:8
+msgid "Free Addons"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:14
+msgid "Install"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:18
+#: admin/wbcom/wbcom-admin-settings.php:487
+msgid "Activate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:22
+#: admin/wbcom/wbcom-admin-settings.php:488
+msgid "Deactivate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:50
+msgid "Paid Addons"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:3
+#: admin/wbcom/wbcom-admin-settings.php:535
+#: admin/wbcom/wbcom-admin-settings.php:620
+msgid "Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:5
+msgid "Having any question or issue ?"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:7
+msgid ""
+"Our team is here to help you out at anytime. If you have any idea about how "
+"we could improve. You can share access to your site on our helpdesk if it "
+"can help getting faster. There are two ways to in touch with us :"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:19
+msgid "Tickets Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:20
+msgid ""
+"Open a ticket on our helpdesk, we don't guarantee a fast response but "
+"within a week. Except if you've purchased one of our product we'll reply "
+"within 24 hours."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:24
+msgid "Open a ticket"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:39
+#: admin/wbcom/templates/wbcom-support-page.php:44
+msgid "Contact Us"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:40
+msgid ""
+"Create a new thread on our plugin page, participation is open to anyone "
+"from all around the world. We'll be there to help as well but can't "
+"guarantee any delay."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:4
+msgid "Reign BuddyPress"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:12
+msgid "REIGN Community"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:14
+msgid "Multiple Member Directory Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:15
+msgid "Multiple Member Header Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:16
+msgid "Multiple Group Directory Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:17
+msgid "Multiple Group Header Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:18
+msgid "BuddyPress Customization Options"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:19
+msgid "BuddyPress Extra Widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:20
+msgid "Inbuilt Social Profile Module"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:23
+#: admin/wbcom/templates/wbcom-themes-page.php:49
+#: admin/wbcom/templates/wbcom-themes-page.php:73
+#: admin/wbcom/templates/wbcom-themes-page.php:96
+msgid "Purchase"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:24
+#: admin/wbcom/templates/wbcom-themes-page.php:50
+#: admin/wbcom/templates/wbcom-themes-page.php:74
+#: admin/wbcom/templates/wbcom-themes-page.php:97
+msgid "Preview"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:30
+msgid "LearnMate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:38
+msgid "Learnmate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:40
+msgid "Add Review to your course"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:41
+msgid "Course Coming Soon"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:42
+#: admin/wbcom/templates/wbcom-themes-page.php:69
+msgid "Grid And List Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:43
+msgid "Learndash/LifterLMS Extra Widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:44
+msgid "Unparalleled Course Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:45
+msgid "Awesome Learndash/LifterLMS Pages"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:46
+msgid "Distraction Free Reading"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:56
+msgid "StoreMate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:64
+msgid "ShopMate Dokan"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:66
+msgid "Dokan Extra Widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:67
+msgid "Unique Single Product Page Customization"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:68
+msgid "Awesome WooCommerce Pages"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:70
+msgid "Automated Mega Menu Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:80
+msgid "Jobmate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:88
+msgid "Jobmate Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:90
+msgid "Simple live searching and filtering"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:91
+msgid "Unique Job listing Page"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:92
+msgid "Awesome Resume list Page"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:93
+msgid "Outstanding all job maanger pagesLayout"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:178
+msgid "Custom Font Uploader"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:180
+msgid ""
+"It also allows you to upload your own custom font to your site and use them "
+"using custom css."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:186
+msgid "BuddyPress Activity Filter"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:188
+msgid "Admin can set default and customised activities to be listed on front-end."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:194
+msgid "BuddyPress Activity Social Share"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:196
+msgid ""
+"This plugin allows anyone easily share BuddyPress Activites on major social "
+"media (Facebook, Twitter, Google+, Linkedin )."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:202
+msgid "BuddyPress Create Group Type"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:204
+msgid "It will help to create group type for BuddyPress Groups."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:210
+msgid "BuddyPress Member Reviews"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:212
+msgid ""
+"This plugin allows only site members to add reviews to the buddypress "
+"members on the site and even rate the member’s profile out of 5 points with "
+"multiple review criteria."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:218
+msgid "BuddyPress Group Reviews"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:220
+msgid ""
+"This plugin allows the BuddyPress Members to give reviews to the BuddyPress "
+"groups on the site. The review form allows the users to give text review, "
+"even rate the group on the basis of multiple criterias."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:226
+msgid "BuddyPress Favorite Notification"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:228
+msgid ""
+"BuddyPress Favorite Notification adds a notification for BuddyPress "
+"activity."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:234
+msgid "Custom Email Options"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:236
+msgid "Override default email options of Worpdress."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:242
+msgid "BuddyPress Checkins"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:244
+msgid ""
+"This plugin allows BuddyPress members to share their location when they are "
+"posting activities, you can add places where you visited, nearby locations "
+"based on google places."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:250
+msgid "BuddyPress Job Manager"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:252
+msgid ""
+"Incorporates BuddyPress with the WP Job Manager plugin by creating specific "
+"tabs in employer’s and candidate’s profiles."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:258
+msgid "BuddyPress user ToDo List"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:260
+msgid ""
+"This plugin allows you to create your personal task list with timestamp. "
+"You can mark them complete when you are done with them. It will also send "
+"reminder when you have any overdue task."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:266
+msgid "Shortcodes for BuddyPress"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:268
+msgid ""
+"This plugin will add an extended feature to the big name “BuddyPress” that "
+"will generate Shortcode for Listing Activity Streams , Members and Groups "
+"on any post/page in website."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:274
+msgid "Woo Open Graph"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:276
+msgid ""
+"This plugin will add an extended feature to the big name “WooCommerce” that "
+"will adds well executed and accurate Open Graph Meta Tags to your site with "
+"title,description and WooCommerce featured image."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:282
+msgid "BuddyPress Lock"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:284
+msgid ""
+"This plugin allows the administrator to lock the certain parts of their "
+"site. It help to create private BuddyPress community by locking certain "
+"BuddyPress Components, WordPress Pages, Custom Post Types for public view "
+"without using any membership plugin."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:290
+msgid "Woo Audio Preview"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:292
+msgid ""
+"This plugin Allows playing the audio files in sample mode to prevent "
+"unauthorized downloading of the audio files. It helps to display sample "
+"files at single product page."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:298
+msgid "WordPress System Log"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:300
+msgid ""
+"This plugin helps administrators of the site see their environment on which "
+"the site is currently running that includes WordPress environment, tha "
+"database it requires, Server Environment and the plugins installed and "
+"activated on the site."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:306
+msgid "BP Post From Anywhere"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:308
+msgid ""
+"This plugin will generate shortcode and widgets for post updates section "
+"for activities so you can post update from anywhere, it might be sidebar, "
+"some page or any template file."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:314
+msgid "Woo Document Preview"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:316
+msgid ""
+"This will allow you to add document preview at single product page. Which "
+"helps to offer more better idea when you are selling ebooks, pdf or some "
+"documents."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:322
+msgid "WordPress Media Category"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:324
+#: admin/wbcom/wbcom-admin-settings.php:340
+msgid ""
+"This plugin helps administrators of the site categorize their wordpress "
+"media."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:330
+msgid "Woo Price Quotes"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:332
+msgid ""
+"This plugin helps in quoting the products that admin wishes to hide its "
+"purchasing details."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:338
+msgid "EDD Service Extended"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:346
+msgid "WB Ads Rotator with Split Test"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:348
+msgid ""
+"This plugin is designed for the SPLIT TESTING, you can check performance of "
+"your ads layout and on the basis of them you can select one of them for "
+"your regular use."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:366
+msgid "BuddyPress Moderation Pro"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:367
+msgid ""
+"BuddyPress Community Moderation offers a solution for site owners to keep "
+"their communities straight. With community policing strategy, members of "
+"the community have an option for moderation sitewide by attaching flags to "
+"content created within the various components."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:372
+msgid "BuddyPress Polls"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:373
+msgid ""
+"Use BuddyPress Polls plugin to create polls inside the activity, let your "
+"user response to your polls. Members can create pools like activities, "
+"easily votes on them."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:378
+msgid "BuddyPress Resume Manager"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:379
+msgid ""
+"BuddyPress Resume Manager adds a separate BuddyPress Resume menu at a "
+"user’s BuddyPress Profile Page to display individual member resume. We have "
+"added predefined fields for the resumes and site admin and enable and "
+"disable them."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:384
+msgid "BuddyPress Profanity"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:385
+msgid ""
+"Use BuddyPress Profanity plugin to censor content in your community! Easily "
+"Censor all the unwanted words in activities, private messages contents by "
+"specifying a list of keywords to be filtered."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:390
+msgid "BuddyPress Private Community Pro"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:391
+msgid ""
+"This plugin offers a lockdown for BuddyPress Component and will ask users "
+"to log in go further to check profile or any other protected details."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:396
+msgid "BuddyPress Profile Pro"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:397
+msgid ""
+"This plugin gives you the power to extend BuddyPress Profiles with repeater "
+"fields and groups. You can easily add multiple field groups and display "
+"them at member’s profile."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:529
+#: admin/wbcom/wbcom-admin-settings.php:608
+msgid "Components"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:532
+#: admin/wbcom/wbcom-admin-settings.php:614
+msgid "Themes"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:602
+msgid "Settings"
+msgstr ""
+
+#: admin/wbcom/wbcom-paid-plugin-settings.php:29
+#: admin/wbcom/wbcom-paid-plugin-settings.php:43
+#: edd-license/edd-plugin-license.php:45
+msgid "License"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:153
+#: public/class-ld-dashboard-public.php:2037
+msgid "To Do"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:309
+msgid "Proceed"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:372
+msgid "BuddyPress Group"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:403
+msgid "None"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:416
+msgid "Do you want to associate a BuddyPress group with this course?"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:417
+msgid "This action remove all existing users in this group. Are you sure?"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:424
+msgid "If you want to associate with new group then please create group first."
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:490
+msgid "Learning Activities"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:535
+msgid "Learning Activities Settings"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:536
+msgid "Manage your learning activities settings below."
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:553
+#: buddypress/class-reign-learndash-buddypress-addon.php:561
+msgid "Your profile settings have been saved."
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:573
+msgid "Enable"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:574
+msgid "Disable"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:582
+msgid "Enable \"%s\""
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:597
+#: edd-license/edd-plugin-license.php:427
+msgid "Save Changes"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:606
+#: buddypress/class-reign-learndash-buddypress-addon.php:630
+msgid "LearnDash BuddyPress Activities"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:632
+msgid "Enable BuddyPress Activities"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:634
+msgid "Disable BuddyPress Activities"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:93
+#: public/class-ld-dashboard-public.php:2081
+msgid "Sorry, no %1$s found."
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:109
+msgid "%1$s added successfully !"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:125
+msgid "%1$s updated successfully !"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:132
+msgid "Task Progress"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:154
+msgid "Dashboard"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:160
+msgid "At a Glance"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:170
+msgid "Total %1$s"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:184
+#: buddypress/ld-dashboard-todo-list.php:186
+msgid "%1$s Remaining"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:199
+msgid "%1$s Completed"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:209
+msgid "All %1$s"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:221
+#: buddypress/ld-dashboard-todo-list.php:598
+#: includes/ld-dashboard-functions.php:605
+msgid "Priority"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:222
+#: buddypress/ld-dashboard-todo-list.php:599
+#: includes/ld-dashboard-functions.php:606
+msgid "Task"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:223
+#: includes/ld-dashboard-functions.php:607
+msgid "Due Date"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:224
+#: buddypress/ld-dashboard-todo-list.php:600
+#: includes/ld-dashboard-functions.php:608
+msgid "Actions"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:249
+#: buddypress/ld-dashboard-todo-list.php:336
+#: buddypress/ld-dashboard-todo-list.php:424
+#: buddypress/ld-dashboard-todo-list.php:512
+#: buddypress/ld-dashboard-todo-list.php:619
+#: includes/ld-dashboard-functions.php:264
+#: includes/ld-dashboard-functions.php:350
+#: includes/ld-dashboard-functions.php:437
+#: includes/ld-dashboard-functions.php:524
+msgid "Expired %d days ago!"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:252
+#: buddypress/ld-dashboard-todo-list.php:339
+#: buddypress/ld-dashboard-todo-list.php:427
+#: buddypress/ld-dashboard-todo-list.php:515
+#: buddypress/ld-dashboard-todo-list.php:622
+#: includes/ld-dashboard-functions.php:267
+#: includes/ld-dashboard-functions.php:353
+#: includes/ld-dashboard-functions.php:440
+#: includes/ld-dashboard-functions.php:527
+msgid "Today is the last day to complete. Hurry Up!"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:256
+#: buddypress/ld-dashboard-todo-list.php:344
+#: buddypress/ld-dashboard-todo-list.php:432
+#: buddypress/ld-dashboard-todo-list.php:520
+#: buddypress/ld-dashboard-todo-list.php:627
+#: includes/ld-dashboard-functions.php:271
+#: includes/ld-dashboard-functions.php:358
+#: includes/ld-dashboard-functions.php:445
+#: includes/ld-dashboard-functions.php:532
+msgid "day"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:258
+#: buddypress/ld-dashboard-todo-list.php:346
+#: buddypress/ld-dashboard-todo-list.php:434
+#: buddypress/ld-dashboard-todo-list.php:522
+#: buddypress/ld-dashboard-todo-list.php:629
+#: includes/ld-dashboard-functions.php:273
+#: includes/ld-dashboard-functions.php:360
+#: includes/ld-dashboard-functions.php:447
+#: includes/ld-dashboard-functions.php:534
+msgid "days"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:260
+#: buddypress/ld-dashboard-todo-list.php:348
+#: buddypress/ld-dashboard-todo-list.php:436
+#: buddypress/ld-dashboard-todo-list.php:524
+#: buddypress/ld-dashboard-todo-list.php:631
+#: includes/ld-dashboard-functions.php:275
+#: includes/ld-dashboard-functions.php:362
+#: includes/ld-dashboard-functions.php:449
+#: includes/ld-dashboard-functions.php:536
+msgid "%1$d %2$s left to complete the task!"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:264
+#: buddypress/ld-dashboard-todo-list.php:352
+#: buddypress/ld-dashboard-todo-list.php:440
+#: buddypress/ld-dashboard-todo-list.php:528
+#: buddypress/ld-dashboard-todo-list.php:635
+#: includes/ld-dashboard-functions.php:279
+#: includes/ld-dashboard-functions.php:366
+#: includes/ld-dashboard-functions.php:453
+#: includes/ld-dashboard-functions.php:540
+msgid "Completed!"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:271
+#: buddypress/ld-dashboard-todo-list.php:359
+#: buddypress/ld-dashboard-todo-list.php:447
+#: buddypress/ld-dashboard-todo-list.php:535
+#: buddypress/ld-dashboard-todo-list.php:642
+#: includes/ld-dashboard-functions.php:286
+#: includes/ld-dashboard-functions.php:373
+#: includes/ld-dashboard-functions.php:460
+#: includes/ld-dashboard-functions.php:547
+msgid "Critical"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:274
+#: buddypress/ld-dashboard-todo-list.php:362
+#: buddypress/ld-dashboard-todo-list.php:450
+#: buddypress/ld-dashboard-todo-list.php:538
+#: buddypress/ld-dashboard-todo-list.php:645
+#: includes/ld-dashboard-functions.php:289
+#: includes/ld-dashboard-functions.php:376
+#: includes/ld-dashboard-functions.php:463
+#: includes/ld-dashboard-functions.php:550
+msgid "High"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:277
+#: buddypress/ld-dashboard-todo-list.php:365
+#: buddypress/ld-dashboard-todo-list.php:453
+#: buddypress/ld-dashboard-todo-list.php:541
+#: buddypress/ld-dashboard-todo-list.php:648
+#: includes/ld-dashboard-functions.php:292
+#: includes/ld-dashboard-functions.php:379
+#: includes/ld-dashboard-functions.php:466
+#: includes/ld-dashboard-functions.php:553
+msgid "Normal"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:295
+#: buddypress/ld-dashboard-todo-list.php:383
+#: buddypress/ld-dashboard-todo-list.php:559
+#: buddypress/ld-dashboard-todo-list.php:658
+#: includes/ld-dashboard-functions.php:316
+#: includes/ld-dashboard-functions.php:403
+#: includes/ld-dashboard-functions.php:577
+msgid "Remove: %s"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:300
+#: buddypress/ld-dashboard-todo-list.php:387
+#: buddypress/ld-dashboard-todo-list.php:475
+#: buddypress/ld-dashboard-todo-list.php:563
+#: buddypress/ld-dashboard-todo-list.php:663
+#: includes/ld-dashboard-functions.php:321
+#: includes/ld-dashboard-functions.php:407
+#: includes/ld-dashboard-functions.php:494
+#: includes/ld-dashboard-functions.php:581
+msgid "Edit: %s"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:302
+#: buddypress/ld-dashboard-todo-list.php:389
+#: buddypress/ld-dashboard-todo-list.php:477
+#: buddypress/ld-dashboard-todo-list.php:565
+#: buddypress/ld-dashboard-todo-list.php:665
+#: includes/ld-dashboard-functions.php:323
+#: includes/ld-dashboard-functions.php:409
+#: includes/ld-dashboard-functions.php:496
+#: includes/ld-dashboard-functions.php:583
+msgid "Complete: %s"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:304
+#: buddypress/ld-dashboard-todo-list.php:391
+#: buddypress/ld-dashboard-todo-list.php:479
+#: buddypress/ld-dashboard-todo-list.php:567
+#: buddypress/ld-dashboard-todo-list.php:667
+#: includes/ld-dashboard-functions.php:325
+#: includes/ld-dashboard-functions.php:411
+#: includes/ld-dashboard-functions.php:498
+#: includes/ld-dashboard-functions.php:585
+msgid "Undo Complete: %s"
+msgstr ""
+
+#: buddypress/ld-dashboard-todo-list.php:471
+#: includes/ld-dashboard-functions.php:490
+msgid "Remove: %s "
+msgstr ""
+
+#: edd-license/EDD_LDD_Plugin_Updater.php:205
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: edd-license/EDD_LDD_Plugin_Updater.php:213
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: edd-license/EDD_LDD_Plugin_Updater.php:407
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: edd-license/EDD_LDD_Plugin_Updater.php:407
+msgid "Error"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:55
+msgid "Plugin License Options"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:64
+msgid "License Key"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:68
+msgid "Enter your license key"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:74
+msgid "License Status"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:78
+msgid "active"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:83 edd-license/edd-plugin-license.php:394
+msgid "Inactive"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:90 edd-license/edd-plugin-license.php:93
+#: edd-license/edd-plugin-license.php:420
+msgid "Deactivate License"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:94
+msgid "Click for deactivate license."
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:102
+msgid "Save Settings"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:165
+#: edd-license/edd-plugin-license.php:201
+#: edd-license/edd-plugin-license.php:276
+#: edd-license/edd-plugin-license.php:470
+#: edd-license/edd-plugin-license.php:506
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:174
+#: edd-license/edd-plugin-license.php:479
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:180
+#: edd-license/edd-plugin-license.php:485
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:184
+#: edd-license/edd-plugin-license.php:489
+msgid "Invalid license."
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:189
+#: edd-license/edd-plugin-license.php:494
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:193
+#: edd-license/edd-plugin-license.php:498
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:197
+#: edd-license/edd-plugin-license.php:502
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:391
+msgid "Active"
+msgstr ""
+
+#: edd-license/edd-plugin-license.php:424
+msgid "Activate License"
+msgstr ""
+
+#: ld-dashboard.php:113
+msgid "The %s plugin requires %s plugin to be installed and active."
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:549
+msgid "View Quiz Statistics"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:549
+msgid "Statistics"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:854
+#: public/class-ld-dashboard-public.php:887
+msgid ""
+"Sorry, We are not able to find any course related activities, Please "
+"complete some lessons, topics or quizzes."
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:857
+#: public/class-ld-dashboard-public.php:890
+msgid ""
+"Sorry, We are not able to find any course related activities, Please "
+"encourage your students to complete some lessons, topics or quizzes. "
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1073
+msgid ""
+"Please try to login to website to access dashboard. Dashboard are disabled "
+"for logout members. "
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1543
+#: public/class-ld-dashboard-public.php:1770
+#: templates/ld-dashboard-course-report.php:73
+#: templates/ld-dashboard-student-course-report.php:27
+#: templates/ld-dashboard-student-status.php:83
+msgid "Please wait, while details are loading..."
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1550
+#: public/class-ld-dashboard-public.php:1776
+msgid "&#171; prev"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1552
+#: public/class-ld-dashboard-public.php:1778
+#: templates/ld-dashboard-activity-pagination.php:26
+msgid "page"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1552
+#: public/class-ld-dashboard-public.php:1778
+msgid "from"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1556
+#: public/class-ld-dashboard-public.php:1782
+msgid "next &#187;"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1574
+msgid "Student Information"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1579
+msgid "Total Steps"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1580
+msgid "Completed Steps"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1581
+msgid "Progress %"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1582
+msgid "Completed On"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1728
+#: templates/ld-dashboard-student-course-report.php:47
+msgid ""
+"\r\n"
+"                %1$s%% Complete"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:1730
+#: templates/ld-dashboard-student-course-report.php:49
+msgid ""
+"\r\n"
+"                %1$s/%2$s Steps"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:2205
+msgid "Please add email subject"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:2214
+msgid "Please add email message"
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:2364
+msgid "Email Sent Successfully."
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:2388
+msgid "Please add at least one recipient."
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:2396
+msgid "Please add a subject to your message."
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:2405
+msgid "Please add some content to your message."
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:2428
+msgid "Message successfully sent."
+msgstr ""
+
+#: public/class-ld-dashboard-public.php:2611
+msgid "Permission denied"
+msgstr ""
+
+#: templates/ld-dashboard-activity-pagination.php:22
+msgid "First Page"
+msgstr ""
+
+#: templates/ld-dashboard-activity-pagination.php:23
+msgid "Previous Page"
+msgstr ""
+
+#: templates/ld-dashboard-activity-pagination.php:29
+msgid "Next Page"
+msgstr ""
+
+#: templates/ld-dashboard-activity-pagination.php:30
+msgid "Last Page"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:22
+msgid "Completed Date (Duration)"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:24
+msgid "Completed Date"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:35
+msgid "Started Date (Duration)"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:37
+msgid "Started Date"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:45
+msgid "%1$s completed a quiz %2$s of course %3$s"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:47
+msgid "%1$s completed a quiz %2$s"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:50
+#: templates/ld-dashboard-activity-rows.php:71
+#: templates/ld-dashboard-activity-rows.php:86
+#: templates/ld-dashboard-activity-rows.php:100
+msgid "%1$s ago"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:61
+msgid "%1$s completed a course %2$s"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:70
+msgid "%1$s enrolled for a course %2$s"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:85
+msgid "%1$s completed a lesson %2$s of course %3$s"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:99
+msgid "%1$s completed a topic %2$s of course %3$s"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:111
+msgid "See User Progress"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:121
+#. translators: %s: Name of current post
+msgid " (edit<span class=\"screen-reader-text\"> \"%s\"</span>)"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:131
+msgid "Result:"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:131
+msgid "Not Started"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:26
+msgid "Welcome back, %s"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:59
+msgid "Instructor Earning"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:144
+msgid "Assignments Completed"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:147
+msgid "Assignments Pending"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:215
+msgid "Essays Pending"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:297
+msgid "Students"
+msgstr ""
+
+#: templates/ld-dashboard-course-report.php:56
+msgid "Course Details"
+msgstr ""
+
+#: templates/ld-dashboard-course-report.php:80
+msgid "There is no %s yet!"
+msgstr ""
+
+#: templates/ld-dashboard-email-integration.php:95
+msgid "Email"
+msgstr ""
+
+#: templates/ld-dashboard-email-integration.php:100
+msgid "Select Course"
+msgstr ""
+
+#: templates/ld-dashboard-email-integration.php:110
+#: templates/ld-dashboard-message-integration.php:56
+msgid "Select Students"
+msgstr ""
+
+#: templates/ld-dashboard-email-integration.php:123
+msgid "Please enter email subject"
+msgstr ""
+
+#: templates/ld-dashboard-email-integration.php:141
+msgid "Send Email"
+msgstr ""
+
+#: templates/ld-dashboard-feed-section.php:8
+msgid "Live  Feed"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-earning-stats.php:23
+msgid "Instructor Statistics"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-earning-stats.php:31
+msgid "Course"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-earning-stats.php:32
+msgid "Earning"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-stats.php:15
+msgid "Commission"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-stats.php:16
+msgid "Courses"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-stats.php:17
+msgid "Lessons"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-stats.php:18
+msgid "Topics"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-stats.php:19
+msgid "Quizzes"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-stats.php:20
+msgid "Assignments"
+msgstr ""
+
+#: templates/ld-dashboard-instructor-stats.php:54
+msgid "There is no instructors yet!"
+msgstr ""
+
+#: templates/ld-dashboard-message-integration.php:51
+msgid "Message"
+msgstr ""
+
+#: templates/ld-dashboard-message-integration.php:68
+msgid "Please enter message subject"
+msgstr ""
+
+#: templates/ld-dashboard-message-integration.php:86
+msgid "Send Message"
+msgstr ""
+
+#: templates/ld-dashboard-profile.php:34
+msgid "Edit profile"
+msgstr ""
+
+#: templates/ld-dashboard-profile.php:45
+msgid "My Dashboard"
+msgstr ""
+
+#: templates/ld-dashboard-profile.php:72
+msgid "Logout"
+msgstr ""
+
+#: templates/ld-dashboard-student-course-report.php:18
+msgid "No Enrolled Course"
+msgstr ""
+
+#: templates/ld-dashboard-student-course-report.php:34
+msgid "Course Progress"
+msgstr ""
+
+#: templates/ld-dashboard-student-course-report.php:61
+msgid "You are not enrolled in any course."
+msgstr ""
+
+#: templates/ld-dashboard-student-status.php:65
+msgid "Student Details"
+msgstr ""
+
+#: templates/ld-dashboard-student-status.php:92
+msgid "Please make sure your course is enrolled by students."
+msgstr ""
+
+#: templates/ld-dashboard-student-status.php:94
+msgid "No registered student on the site."
+msgstr ""
+
+#: templates/ld-instructor-registration.php:20
+#: templates/ld-instructor-registration.php:21
+msgid "First Name"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:22
+msgid "Enter your first name"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:27
+#: templates/ld-instructor-registration.php:28
+msgid "Last Name"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:29
+msgid "Enter your last name"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:37
+#: templates/ld-instructor-registration.php:38
+msgid "User Name"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:39
+msgid "Enter your username"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:45
+#: templates/ld-instructor-registration.php:46
+msgid "E-Mail"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:47
+msgid "Enter your email address"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:48
+msgid "Enter your corrent email address"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:56
+#: templates/ld-instructor-registration.php:57
+msgid "Password"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:58
+msgid "Enter your password"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:64
+msgid "Password confirmation"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:65
+msgid "Password Confirmation"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:66
+msgid "Enter your confirmation password"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:67
+msgid "Password doesn't match"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:75
+msgid "Register as instructor"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:88
+msgid "You are instructor"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:91
+msgid "Registered at : %s %s"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:97
+msgid "pending"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:99
+msgid "Approved"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:101
+msgid "Status : %s"
+msgstr ""
+
+#: templates/ld-instructor-registration.php:116
+msgid "Apply to become an instructor"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:470
+msgctxt "Enrolled Courses Label"
+msgid "Enrolled %s"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:507
+msgctxt "Course Enrollment Activity Label"
+msgid "%s Enrollment Activity"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:508
+msgctxt "Course Completion Activity Label"
+msgid "%s Completion Activity"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:509
+msgctxt "Lesson Completion Activity Label"
+msgid "%s Completion Activity"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:510
+msgctxt "Topic Completion Activity Label"
+msgid "%s Completion Activity"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:511
+msgctxt "Quiz Passed Activity Label"
+msgid "%s Passed Activity"
+msgstr ""
+
+#: buddypress/class-reign-learndash-buddypress-addon.php:512
+msgctxt "Comment Single Course Activity Label"
+msgid "Comment Single %s Activity"
+msgstr ""
+
+#: templates/ld-dashboard-activity-rows.php:117
+msgctxt "Course:"
+msgid "%s:"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:87
+msgctxt "Courses"
+msgid "courses"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:115
+msgctxt "Quizzes"
+msgid "quizzes"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:246
+msgctxt "Lessons"
+msgid "lessons"
+msgstr ""
+
+#: templates/ld-dashboard-content-section.php:271
+msgctxt "Topics"
+msgid "topics"
+msgstr ""

@@ -1,0 +1,183 @@
+body .ui-dialog {
+    position: fixed;
+    padding: 0;
+}
+
+body .ui-widget-header {
+    height: 100%;
+    background: #fcfcfc;
+    border: 0;
+    border-bottom: 1px solid #eaeaea;
+    border-radius: 0 !important;
+}
+
+body .ui-state-default {
+    height: 100%;
+}
+
+body .ui-dialog-titlebar {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 15px 50px 15px 15px;
+}
+
+body .ui-dialog .ui-dialog-titlebar-close {
+    width: 30px;
+    height: 30px;
+    top: 5px;
+    right: 5px;
+    background: #e6e6e6;
+    color: #555;
+    border: 1px solid #d3d3d3;
+}
+
+body .ui-dialog-titlebar-close:before {
+    line-height: 28px;
+}
+
+body .ui-widget-overlay {
+    position: fixed;
+    background: #000;
+}
+
+body .ui-widget-content {
+    height: auto !important;
+    border: 0;
+    border-top: 1px solid #eaeaea;
+}
+
+body .ui-dialog .ui-dialog-buttonpane {
+    padding: 10px;
+    text-align: center;
+}
+
+body .ui-dialog-buttonpane .ui-dialog-buttonset {
+    float: none;
+}
+
+body .ui-dialog .ui-dialog-buttonpane button {
+    float: none;
+    border-radius: 25px;
+}
+
+.ui-dialog .ui-dialog-buttonpane button {
+    float: right;
+    margin: .5em .4em .5em 0;
+    cursor: pointer;
+    padding: .2em .6em .3em .6em;
+    line-height: 1.4em;
+    width: auto;
+    overflow: visible;
+}
+
+.ui-button-text-only .ui-button-text {
+    display: block;
+    padding: .4em 1em;
+    line-height: 1.4;
+}
+
+.ui-dialog .ui-button:focus,
+.ui-dialog .ui-button:hover {
+    background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    color: #fff;
+}
+
+.reign-ld-linked-group-list span {
+    color: green;
+    font-style: italic;
+    display: none;
+}
+
+.reign-ld-spinner {
+    margin: 5px 5px 0;
+}
+
+/* BP Group Member Sync */
+#ld_bp_group_sync .submit {
+    display: none;
+}
+
+/* reign-ld-group-pagination */
+#reign-ld-pagination-bar ul {
+    text-align: right;
+}
+
+#reign-ld-pagination-bar ul li {
+    display: inline-block;
+    margin-right: 4px;
+}
+
+#reign-ld-pagination-bar ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 14px;
+    cursor: pointer;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    background: #f4f4f4;
+    color: #444;
+    margin: 4px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+}
+
+#reign-ld-pagination-bar ul li.active a,
+#reign-ld-pagination-bar ul li a:hover {
+    -o-box-shadow: 0 1.5px 8px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1.5px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+/* Tabs icons set */
+button.reign-tablinks:before {
+    font-size: 20px;
+}
+
+button.reign-tablinks.ld_general:before {
+    content: "\f108";
+}
+
+button.reign-tablinks.ld_related_course:before {
+    content: "\f313";
+}
+
+button.reign-tablinks.ld_buddypress:before {
+    content: "\f240";
+}
+
+button.reign-tablinks.ld_bp_group_sync:before {
+    content: "\f463";
+}
+
+.reign-ld-spinner.dashicons.spin {
+    -webkit-animation: dashicons-spin 1s infinite;
+    animation: dashicons-spin 1s infinite;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+}
+
+@-webkit-keyframes dashicons-spin {
+    0% {
+        -webkit-transform: rotate( 0deg );
+        transform: rotate( 0deg );
+    }
+    100% {
+        -webkit-transform: rotate( 360deg );
+        transform: rotate( 360deg );
+    }
+}
+
+@keyframes dashicons-spin {
+    0% {
+        -webkit-transform: rotate( 0deg );
+        transform: rotate( 0deg );
+    }
+    100% {
+        -webkit-transform: rotate( 360deg );
+        transform: rotate( 360deg );
+    }
+}
